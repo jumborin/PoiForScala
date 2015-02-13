@@ -1,2 +1,2 @@
 # poiTest
-ApachePOIのTEST用プロジェクト
+Scalaで作成したApachePOIのローカルTEST用プロジェクト
